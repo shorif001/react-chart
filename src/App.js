@@ -27,12 +27,6 @@ function App() {
     getData();
   }, []);
 
-  //   // var xAxis = staggerLabels.xAxis();
-  //   const xaxis = new staggerLabels.xaxis();
-  //   xaxis.staggerMode(true);
-  // // adjusting settings for stagger mode
-  // xaxis.staggerLines(2);
-
   return (
     <div className="App">
       <div>
