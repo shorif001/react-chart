@@ -39,7 +39,9 @@ function App() {
         <p>
           https://apexcharts.com/javascript-chart-demos/ <br />
           npm install react-apexcharts apexcharts <br />
-          import Chart from 'react-apexcharts'
+          import Chart from 'react-apexcharts'<br /><br />
+
+          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
         </p>
       </div>
       <div className="donutChart">
